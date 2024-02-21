@@ -1,21 +1,21 @@
-regions/cities,total amount of schools
-Abay,318
-Akmolinsk region,559
-Aktobe region,426
-Almaty region,464
-Atyrau region,220
-Western-Kazakhstan region,381
-Zhambil region,501
-Zheticu region,349
-Karaganda region,437
-Kostanai region,476
-Kizilorda region,331
-Mangistau region,186
-Pavlodar region,371
-Northern-Kazakhstan region,467
-Turkistan region,1004
-Ulitau,88
-Easter-Kazakhstan region,361
-city Astana,164
-city Almaty,333
-city Shimkent,251
+region,schools,year
+Абай,318,2022-2023
+Акмолинская,559,2022-2023
+Актюбинская,426,2022-2023
+Алматинская,464,2022-2023
+Атырауская,220,2022-2023
+Западно-Казахстанская,381,2022-2023
+Жамбылская,501,2022-2023
+Жетису,349,2022-2023
+Карагандинская,437,2022-2023
+Костанайская,476,2022-2023
+Кызылординская,331,2022-2023
+Мангистауская,186,2022-2023
+Павлодарская,371,2022-2023
+Северо-Казахстанская,467,2022-2023
+Туркестанская*,1004,2022-2023
+Улытау,88,2022-2023
+Восточно-Казахстанская,361,2022-2023
+город Астана,164,2022-2023
+город Алматы,333,2022-2023
+город Шымкент,251,2022-2023
