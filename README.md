@@ -31,7 +31,7 @@ pip install -r scripts/requirements.txt
 Then run the script
 
 ```
-python scripts/scripts.py
+python scripts/process.py
 ```
 
 ## License
