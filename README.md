@@ -10,7 +10,7 @@ Data is in xlsx format and synced with upstream source yearly. It is sourced fro
 
 We have processed the source data to make it normalized and derived from it several aggregated datasets:
 
-* `data/schools.csv` - data by segment.
+* `data/schools.csv` - data by segments.
 
 We have also added some metadata such as column descriptions and [data packaged it][dp].
 
