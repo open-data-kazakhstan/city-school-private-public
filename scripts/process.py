@@ -4,7 +4,7 @@ from datapackage import Package
 
 def data_package():
     package = Package()
-    package.infer(r'data/schools.csv')
+    package.infer(r'data/schools-final.csv')
     package.commit()
     package.save(r"datapackage.json")
 
