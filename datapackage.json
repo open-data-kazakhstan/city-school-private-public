@@ -1,35 +1,3 @@
 {
-    "profile": "tabular-data-package",
-    "resources": [
-        {
-            "path": "data\\schools.csv",
-            "profile": "tabular-data-resource",
-            "name": "schools",
-            "format": "csv",
-            "mediatype": "text/csv",
-            "encoding": "utf-8",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "region",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
-                        "name": "schools",
-                        "type": "integer",
-                        "format": "default"
-                    },
-                    {
-                        "name": "year",
-                        "type": "string",
-                        "format": "default"
-                    }
-                ],
-                "missingValues": [
-                    ""
-                ]
-            }
-        }
-    ]
+    "profile": "data-package"
 }
